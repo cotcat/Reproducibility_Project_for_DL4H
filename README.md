@@ -1,6 +1,6 @@
-# [Citation to the original paper ](https://github.com/acadTags/Explainable-Automated-Medical-Coding)
+# [Citation to the original paper ](https://doi.org/10.48550/arXiv.2010.15728)
 
-# [Link to the original paper’s repo (if applicable)](https://doi.org/10.48550/arXiv.2010.15728)
+# [Link to the original paper’s repo (if applicable)](https://github.com/acadTags/Explainable-Automated-Medical-Coding)
 
 # [Dependencies](https://github.com/cotcat/Reproducibility_Project_for_DL4H/blob/master/requirements.txt)
 
