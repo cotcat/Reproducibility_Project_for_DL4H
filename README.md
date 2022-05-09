@@ -30,7 +30,7 @@ If you have [`downloaded from onedrive (3.5G with other files)`](https://onedriv
 Table 1: Results on MIMIC-III-50 dataset (50 la-
 bels)(Dong, Su  ́arez-Paniagua, Whiteley and Wu, 2022)
 
-![Table 1](Results on MIMIC-III-50 dataset 50 labels.png)
+![Table 1](Results on MIMIC-III-50 dataset 01.png)
 
 Table 2: Results on MIMIC-III-shielding dataset (20 la-
 bels)(Dong, Su  ́arez-Paniagua, Whiteley and Wu, 2022)
